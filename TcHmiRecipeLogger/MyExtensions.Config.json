@@ -1,0 +1,15 @@
+{
+    "name": "MyExtensions",
+    "version": "1.0.0",
+    "entryPoint" : "index.js",
+    "rendererScript" : "renderer.js"
+}
+
+
+
+
+
+
+
+
+
